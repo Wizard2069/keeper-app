@@ -20,6 +20,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://Wizard2069.github.io/keeperApp",
   "browserslist": {
     "production": [
       ">0.2%",
